@@ -1,7 +1,7 @@
 # Cyber Security
 
 # Information
-- Authen Chungthaisong
+- Wanwisa Sakronurssamee
 - 0568604050XXX
 - Expectations for this course
 What I expect from this course is cybersecurity,
